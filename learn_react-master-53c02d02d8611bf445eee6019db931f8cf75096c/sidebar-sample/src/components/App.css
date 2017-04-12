@@ -1,0 +1,12 @@
+.App {
+    display: flex;
+}
+.side-bar {
+    width: 30%;
+    background-color: #e4e4e4;
+    
+}
+.contents{
+    width: 65%;
+    padding-left: 10px;
+}
